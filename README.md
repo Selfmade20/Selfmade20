@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning AWS<br>- ⚡ In my free time I like building project to enhance my experience and knowledge</p>
+<p align="left">I'm Tebogo Selamolela from South Africa<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning AWS<br>- ⚡ In my free time I like building project to enhance my experience and knowledge</p>
 
 ###
 
@@ -46,5 +46,4 @@
 </div>
 
 ###
-![Snake animation](https://github.com/Selfmade20/Selfmade20/blob/output/snake.svg)
 
