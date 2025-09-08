@@ -47,4 +47,4 @@
 
 ###
 
-![Snake animation](https://github.com/Selfmade20/Selfmade20/blob/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Selfmade20/Selfmade20/output/snake.svg)
