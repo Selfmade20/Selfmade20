@@ -46,5 +46,5 @@
 </div>
 
 ###
-
 ![Snake animation](https://github.com/Selfmade20/Selfmade20/blob/output/snake.svg)
+
