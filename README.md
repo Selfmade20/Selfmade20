@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">Hello there 👋</h1>
+<h1 align="center">Hello there I'm Tebogo Selamolela👋</h1>
 
 ###
 
@@ -25,7 +25,43 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning AWS<br>- ⚡ In my free time I like building project to enhance my experience and knowledge</p>
+<p align="left">I am a dedicated and versatile Full Stack Developer with a passion for creating efficient and user-friendly web applications. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions.</p>
+
+###
+
+<h3 align="left">🎓 Currently Studying</h3>
+
+###
+
+<p align="left">🔒 <strong>Cybersecurity</strong> - Building expertise in security protocols and threat mitigation<br>☁️ <strong>AWS Cloud Practitioner</strong> - Mastering cloud architecture and deployment strategies</p>
+
+###
+
+<h3 align="left">🛠 Frontend Technologies</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react native logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
+</div>
 
 ###
 
@@ -70,4 +106,8 @@
 
 ###
 
-![Snake animation](https://github.com/Selfmade20/Selfmade20/blob/output/snake.svg)
+<h3 align="left">💡 Fun Fact</h3>
+
+###
+
+<p align="left">When I'm not coding, you'll find me exploring the latest cybersecurity trends or experimenting with cloud architectures. I believe that great software is built at the intersection of creativity, security, and scalability! 🌟</p>
